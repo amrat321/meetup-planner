@@ -1,0 +1,97 @@
+body{
+    background-image: url("background-beautiful-blossom-268533 (1).jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+*{
+    font-family: cursive;
+    
+}
+
+.user{
+    margin-left: 10px;
+    margin-top: 400px;
+  }
+  #user{
+      margin-right: 600px
+  }
+#nav_div{
+    height: 70px;
+    width: 1370px;
+    background-color: rgb(36, 59, 68);
+    display: inline-block
+}
+#span_div{
+    float: right;
+    margin: 10px 20px 0 0;
+}
+.a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-right: 25px
+}
+.a:hover{
+    text-decoration: none;
+    color: wheat;
+}
+.nav_button{
+    width: 100px;
+    height: 40px;
+     background-color: white;
+     border: 0px;
+     border-radius: 5px;
+     color: rgb(24, 116, 193);
+}
+#main_card_div2{
+    width: 600px;
+    height: 300px;
+    margin-left: 50px
+}
+#main_card_div{
+    display: inline-block;
+    border: 2px solid rgb(24, 116, 193);
+
+    width: 700px;
+    height: 750px;
+    margin-left: 350px;
+    margin-top: 100px;
+    background-color: rgba(39, 36, 36, 0.6);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+
+}
+
+#div1{
+    border: 2px solid rgb(24, 116, 193);
+    background-color: rgba(39, 36, 36, 0.6);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 200px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 5px;
+    width: 300px;
+    text-align: center;
+    font-size: 12px
+}
+
+#img{
+    display: block;
+    border-radius: 5px;
+    height: 100px;
+    width: 150px;
+    margin-left: 80px
+}
+#head{
+    font-weight: bolder;
+    font-size: 20px
+}
+#htmldiv{
+    /* border: 2px solid black; */
+    display: inline-block;
+    margin-left: 50px;
+    color: white
+}

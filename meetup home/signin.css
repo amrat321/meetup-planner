@@ -1,0 +1,40 @@
+body{
+    background-image: url("background-beautiful-blossom-268533 (1).jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#main_div{
+    /* border: 2px solid black; */
+    /* width: 600px;
+    height: 600px; */
+    /* text-align: center; */
+    /* margin: 0 auto 0 auto;
+    background-color: rgba(39, 36, 36, 0.6); */
+    display: inline-block;
+    border: 2px solid rgb(24, 116, 193);
+    width: 700px;
+    height: 600px;
+    margin-left: 170px;
+    padding: 10px;
+    margin-top: 100px;
+    background-color: rgba(39, 36, 36, 0.6);
+    border-radius: 10px;
+
+
+}
+#uper_div{
+    /* background-color: rgb(24, 116, 193); */
+    color: white;
+    font-family: cursive;
+}
+#meetup{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: cursive;
+    margin-left: 20px;
+    /* margin-top: 10px; */
+    float: left;
+    color: white
+
+
+}

@@ -1,0 +1,121 @@
+body{
+    background-image: url("background-beautiful-blossom-268533 (1).jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#main_card_div{
+    display: inline-block;
+    border: 2px solid rgb(24, 116, 193);
+
+    width: 1365px;
+    height: 400px;
+    /* margin-left: 350px; */
+    margin-top: 10px;
+    background-color: rgba(39, 36, 36, 0.6);
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+
+}
+
+.user{
+  margin-left: 10px;
+ margin-top: 400px;
+}
+#user{
+    margin-right: 600px
+}
+#nav_div{
+    height: 70px;
+    /* border: 2px solid black; */
+    background-color: rgb(24, 116, 193);
+}
+#span_div{
+    float: right;
+        font-family: cursive;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin-right: 25px;
+    font-family: cursive;
+
+}
+.nav_button{
+    width: 100px;
+    height: 40px;
+     background-color: white;
+     border: 0px;
+     border-radius: 5px;
+     color: rgb(24, 116, 193);
+     font-family: cursive;
+}
+
+/* card css */
+#div1{
+    border: 2px solid rgb(24, 116, 193);
+    background-color: rgba(39, 36, 36, 0.6);
+    color: rgb(255, 255, 255);;
+    border-radius: 10px;
+    margin-top: 200px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    width: 300px;
+    text-align: center;
+    /* margin-right: 20px */
+}
+
+#nav_div{
+    height: 70px;
+    width: 1370px;
+    /* border: 2px solid black; */
+    background-color: rgb(36, 59, 68);
+    display: inline-block
+}
+#span_div{
+    float: right;
+    margin: 10px 20px 0 0;
+}
+.a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+    margin-right: 25px
+}
+.a:hover{
+    text-decoration: none;
+    color: wheat;
+}
+.nav_button{
+    width: 100px;
+    height: 40px;
+     background-color: white;
+     border: 0px;
+     border-radius: 5px;
+     color: rgb(24, 116, 193);
+}
+
+#img{
+    display: block;
+    border-radius: 5px;
+    height: 100px;
+    width: 150px;
+    margin-left: 80px
+}
+body{
+    background-color: rgb(248, 249, 249)
+}
+#head{
+    font-weight: bolder;
+    font-size: 20px
+}
+
+
+
